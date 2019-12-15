@@ -1,0 +1,4 @@
+#Sun Dec 15 19:43:54 ICT 2019
+base.0=C\:\\Users\\lenovo\\Desktop\\CalculationFinal\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
